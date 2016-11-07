@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first_text">Vous voulez savoir ce qui se passera dans trois mois?</string>
+    <string name="result_text">Vous serez un développeur Android génial! Il suffit de continuer à travailler dur!</string>
+    <string name="button_text">cliquez sur-moi :)</string>
+</resources>
